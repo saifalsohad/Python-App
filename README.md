@@ -7,7 +7,7 @@ This Python application performs the following tasks:
 ### Step 1: Read and Modify Excel File
 
 1. **Read an Excel File of a Location**
-   - The application will read an Excel file containing location data.
+   - The application will read an Excel file containing plan data.
 
 2. **Check SSN (Social Security Number) and Plan ID Formatting**
    - Verify if SSN is a 9-digit number and Plan ID is a 4-digit number.
